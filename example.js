@@ -57,9 +57,9 @@ console.log('param1', param1);
 console.log('func2', func2);
 
 
-const l = new Lammas('shawn');
+const l = new Lammas('Shawn');
 console.log('lammas name = ', l.getName());
-l.setName('dolly');
+l.setName('Dolly');
 console.log('lammas name = ', l.getName());
 console.log("lammas", l);
 
